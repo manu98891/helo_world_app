@@ -1,6 +1,7 @@
 # helo_world_app
 
 A new Flutter project.
+Este proyecto es un contador
 
 ## Getting Started
 
